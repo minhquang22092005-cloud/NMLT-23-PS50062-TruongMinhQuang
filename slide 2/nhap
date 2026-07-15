@@ -1,0 +1,9 @@
+#include <studio.h>
+int main() {
+    int namsinh;
+    //UI/UI
+    printf("Nhap nam sinh:");
+    scanf("%d", &namsinh);
+    printf("Nam sinh: cua ban la: %d", namsinh);
+    return 0;
+}
